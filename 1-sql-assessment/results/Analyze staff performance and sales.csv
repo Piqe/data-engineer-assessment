@@ -1,0 +1,11 @@
+"staff_id","branch_name","role_code","performance_score","total_transactions","total_sales","avg_transaction_value"
+S001,Central Store,MGR,4.50,0,,
+S004,North Branch,MGR,4.70,0,,
+S006,South Branch,MGR,4.30,0,,
+S007,East Branch,STF,3.90,2,125000.00,62500.00
+S009,West Branch,STF,3.70,2,90000.00,45000.00
+S002,Central Store,STF,4.20,2,80000.00,40000.00
+S005,South Branch,STF,3.80,1,60000.00,60000.00
+S010,West Branch,MGR,4.40,1,55000.00,55000.00
+S003,North Branch,STF,4.00,1,45000.00,45000.00
+S008,East Branch,MGR,4.10,1,40000.00,40000.00

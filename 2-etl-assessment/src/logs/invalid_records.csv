@@ -1,0 +1,39 @@
+Funcloc,Alamat1,Alamat2,Alamat3,Alamat4,SiteName,Alamat4_clean,City,CityCode,Province,Region,RegionalCode,City_clean,error_message,suggestion
+100000001034,Desa Lamin Talihan Rt.Iii,Desa Lamin Talihan,Kec. Kenohan,KUTAI KERTANEGARA,Munoz and Sons,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000001035,Desa Muara Lekah,Desa Muara Lekah,Kec. Muara Muntai,KUTAI KERTANEGARA,"Garcia, Andrews and Meyers",Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000001036,"Jl. Awang Long, Dusun Suka Jaya",Desa Panca Jaya,Kec. Muara Kaman,KUTAI KERTANEGARA,Mcintyre PLC,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000001740,Jl. Warah Made,Kel Fak-Fak Tengah,Fak Fak,FAK FAK,"Johnson, Moreno and Campbell",Fak Fak,,,,,,,Alamat4 tidak ada di master,
+100000001741,Jl.Suprapto,Kel Fak-Fak Selatan,Kec. Fak-Fak Selatan,FAK FAK,Lewis-Carpenter,Fak Fak,,,,,,,Alamat4 tidak ada di master,
+100000003812,Jl. Soekarno-Hatta Km 55,Kukar,Kukar,KUTAI KERTANEGARA,Kramer-Turner,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000003817,Desa Muara Badak Hilir,Desa Muara Badak Hilir,Kec.Muara Badak,KUTAI KERTANEGARA,Mann-Watson,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000003819,Rt 03,Desa Handil Terusan,Kec.Anggana,KUTAI KERTANEGARA,Bell-Wells,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000003820,Jl. Jayanata Rt.07,Desa Genting Tanah,Kec. Kembang Janggut,KUTAI KERTANEGARA,Ibarra PLC,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000003821,"Dusun Manunggal Jaya, Rt 09,","Desa Sambera Baru,",Kec. Marang Kayu,KUTAI KERTANEGARA,"Smith, Thompson and Barnes",Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000004941,"Jln. Lendongan II,","Ds. Peling Sawang,",Kec. Siau Barat,KEPULAUAN SIAU TAGULANDAN,Rivas-Kim,Kepulauan Siau Tagulandan,,,,,,,Alamat4 tidak ada di master,Kepulauan Siau Tagulandang Biaro
+100000004995,LIA LIND III.,"Kel. LIA,",Kec.Siau Timur,KEPULAUAN SIAU TAGULANDAN,Lewis-Richardson,Kepulauan Siau Tagulandan,,,,,,,Alamat4 tidak ada di master,Kepulauan Siau Tagulandang Biaro
+100000005176,"Rintis, Silangkitang Kb Labuhan Batu Utr",Rintis,Silangkitang,Labuhan Batu Selatan,"Williams, Foster and Anderson",Labuhan Batu Selatan,,,,,,,Alamat4 tidak ada di master,Labuhanbatu Selatan
+100000005639,"Desa Beong, Kecamatan Siau Tengah",Bukit Padi,Bukit Padi,KEPULAUAN SIAU TAGULANDAN,"Edwards, Perez and Lee",Kepulauan Siau Tagulandan,,,,,,,Alamat4 tidak ada di master,Kepulauan Siau Tagulandang Biaro
+100000006454,Camp 38 PT.Surya Hutani Jaya,Kukar,Kukar,KUTAI KERTANEGARA,Gregory LLC,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000006704,Jl. Alimuddin,Kamp. Melayu,Kec. Tenggarong,KUTAI KERTANEGARA,Cook-Espinoza,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000006706,"Desa Ulag Nanga Rt VIII,",Desa Ulag Nanga,Bakungan Loa Janan,KUTAI KERTANEGARA,Serrano-Wade,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000006714,Jl. Salak Blok D Rt. 04 Rw. 01,Desa Manunggal Jaya,Kec. Tenggarong Seberang,KUTAI KERTANEGARA,Green-Olson,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000007577,Ds. Jantur Selatan Kc. Muara Muntai,Ds. Jantur Selatan,Muara Muntai,Kutai Kertanegara,Allen-Luna,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000007880,"Dusun Sidomulyo, Rt 21,","Desa Sidomukti,","Kec. Muara Kaman,",KUTAI KERTANEGARA,Newman-Gonzalez,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000008091,Jl Aljawahir RT 7,Baru,Tenggarong,KUTAI KERTANEGARA,Campos-Stanley,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000008266,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,"Macias, Mcguire and Mitchell",Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008268,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Knight-Rodriguez,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008274,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Johnson Inc,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008277,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Thomas Group,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008279,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Watkins Inc,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008281,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,"Fuller, Cervantes and Stephens",Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008284,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Harris Group,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000008285,"Gd.GrahaPratamalt.5,jl.MT Haryon",,,JAKARTA,Blackwell-Medina,Jakarta,,,,,,,Alamat4 tidak ada di master,Kota Adm. Jakarta Barat
+100000012587,Jl. Cendrawasih,kel. Fak Fak,kec. Fak Fak,FAK FAK,Petty-Rodriguez,Fak Fak,,,,,,,Alamat4 tidak ada di master,
+100000012855,Jl. Trans Sulawesi,Desa Wongasari,kec. Wongasari,PAHUWATO,"Martin, Vasquez and Weaver",Pahuwato,,,,,,,Alamat4 tidak ada di master,Pohuwato
+100000012856,Jl. Trans Sulawesi,Desa Bongo Nol,kec. Bongo Nol,PAHUWATO,Schultz Group,Pahuwato,,,,,,,Alamat4 tidak ada di master,Pohuwato
+100000012858,Jl. Trans Sulawesi,Desa Bongo Nol,kec. Bongo Nol,PAHUWATO,"Williamson, Juarez and Thomas",Pahuwato,,,,,,,Alamat4 tidak ada di master,Pohuwato
+100000013559,Tenggarong Kab Kutai,kel. Kutai Kertanegara,kec. Kutai Kertanegara,KUTAI KERTANEGARA,"Castaneda, Gray and Morris",Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000013560,Tenggarong,kel. Muara w,Kec Muara W,KUTAI KERTANEGARA,Webb Group,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000013562,Tenggarong Kab Kukar,kel. Kutai Kertanegara,kec. Kutai Kertanegara,KUTAI KERTANEGARA,Friedman Ltd,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000014886,Desa Lebak Cilong Rt.05,Desa Lebak Cilong,Kec. Muara Wis,KUTAI KERTANEGARA,"Lloyd, Campbell and Perry",Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara
+100000014888,Jl.Desa Muara Pantuan Rt 05,Muara Pantuan,Muara Pantuan,KUTAI KERTANEGARA,Harrison-Castro,Kutai Kertanegara,,,,,,,Alamat4 tidak ada di master,Kutai Kartanegara

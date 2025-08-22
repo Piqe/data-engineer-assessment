@@ -1,0 +1,11 @@
+"branch_code","branch_name","region_id","total_stock_in","total_stock_out","avg_unit_cost","total_stock_value"
+B005,West Branch,3,30,0,60000.00,1800000.00
+B006,Airport Branch,3,25,0,25000.00,625000.00
+B001,Central Store,1,220,0,1500.00,320000.00
+B003,South Branch,2,70,0,4000.00,280000.00
+B002,North Branch,1,50,0,5000.00,250000.00
+B007,Mall Branch,4,15,0,15000.00,225000.00
+B004,East Branch,2,20,0,10000.00,200000.00
+B008,City Center,4,18,0,8000.00,144000.00
+B009,Suburban Branch,1,22,0,5000.00,110000.00
+B010,Downtown Branch,2,0,0,,0
